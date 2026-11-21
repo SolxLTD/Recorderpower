@@ -25,4 +25,4 @@ Signed-in users can change their password from their workspace. Accounts issued 
 
 ## Parent fee payments
 
-Parent checkout uses Paystack. Configure `PAYSTACK_SECRET_KEY` in the server environment and set `APP_URL` to the public frontend origin used for the payment return URL. Keep the secret key on the server; never expose it through a `VITE_` variable. Without a key, parent checkout is disabled.
+Parent checkout uses school details. Configure
