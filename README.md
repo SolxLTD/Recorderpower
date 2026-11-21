@@ -1,3 +1,12 @@
+
+<img width="1459" height="841" alt="image" src="https://github.com/user-attachments/assets/60c75445-f713-4811-b7d0-f0ac0d13ac6c" />
+
+
+
+
+
+
+
 # Recorderpower — School Intelligence
 
 School record-keeping software for principals, staff, students, and parents.
